@@ -1,4 +1,5 @@
 #Binary Search Iterative
+# added new line
 '''
 mylist = [25,18,27,11,10,19,36,45,12,100,-1,-2,12,110]
 def binarySearch(mylist,k):

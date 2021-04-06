@@ -1,4 +1,5 @@
 # Bubble sort:
+# added new line
 # In array current element is compared with the next element.
 # if current element is greater then next element it is swapped
 
